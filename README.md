@@ -1,15 +1,3 @@
-<div id="header" align="center">
-  
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <div id="badges">
-    <a href="[your-linkedin-UR](https://www.linkedin.com/in/diana-matkava-7b7302227/)L">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://www.codewars.com/users/dianaGera">
-      <img src="https://img.shields.io/badge/Codewars-red?style=for-the-badge&logo=Codewars&logoColor=white" alt="Youtube Badge"/>
-    </a>
-    
-</div>
 <table cellpadding="0" style="border-collapse: collapse; background-color: transparent; border: none">
   <tr style="padding: 0; text-align: right;">
     <!-- GitHub Stats Card -->  
@@ -24,7 +12,6 @@
 </table>
   </div>
 
-  
  
   
   <div id="badges" align="center">
@@ -45,3 +32,15 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="35" height="35"/>
   </div>
 </div
+
+<div id="header" align="center">
+  <h2></h2>
+  <div align="center" style='margin-top: 20px'>
+    <a href="[your-linkedin-UR](https://www.linkedin.com/in/diana-matkava-7b7302227/)L">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://www.codewars.com/users/dianaGera">
+      <img src="https://img.shields.io/badge/Codewars-red?style=for-the-badge&logo=Codewars&logoColor=white" alt="Youtube Badge"/>
+    </a>
+    
+</div>
