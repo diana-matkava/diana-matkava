@@ -2,7 +2,7 @@
 
 <!-- ![Codewars](https://github.r2v.ch/codewars?user=dianaGera&stroke=blue&theme=darck&hide_clan=true&top_languages=true&stroke=%23BB432C)-->
 
-[![Codewars](https://github.r2v.ch/codewars?user=dianaGera&top_languages=true&hide_clan=true&stroke=%23b362ff&theme=gradient)(https://www.codewars.com/users/dianaGera)]
+![Codewars](https://github.r2v.ch/codewars?user=dianaGera&top_languages=true&hide_clan=true&stroke=%23b362ff&theme=gradient)
 
 <!--
 **dianaGera/dianaGera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
