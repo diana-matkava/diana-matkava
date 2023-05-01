@@ -1,4 +1,3 @@
-### Hi there 👋
 <div id="header" align="center">
   
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -11,16 +10,18 @@
     </a>
     
 </div>
-  <img src="https://komarev.com/ghpvc/?username=dianaGera&style=flat-square&color=blue" alt=""/>
-  
-   ![Codewars](https://github.r2v.ch/codewars?user=dianaGera&top_languages=true&hide_clan=true&stroke=%23b362ff&theme=gradient)
-
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dianaGera&theme=codestackr)](https://git.io/streak-stats)
-  
-  <img src='(https://github-readme-stats.vercel.app/api/top-langs/?username=dianaGera&layout=compact&theme=vision-friendly-dark'/>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dianaGera&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+<table cellpadding="0" style="border-collapse: collapse; background-color: transparent; border: none">
+  <tr style="padding: 0; text-align: right;">
+    <!-- GitHub Stats Card -->  
+    <td valign="right" style="border: none; "><img height="200" width="450" src="https://github.r2v.ch/codewars?user=dianaGera&top_languages=true&hide_clan=true&stroke=%23b362ff&theme=dark"/></td>
+    <td valign="right"><img height="200" width="450" src="http://github-readme-streak-stats.herokuapp.com?user=dianaGera&theme=codestackr"/></td>
+  </tr>  
+  <tr>
+    <!-- GitHub Top Language Card -->
+    <td valign="top"><img height="200" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dianaGera&layout=compact&theme=vision-friendly-dark"/></td>
+    <td valign="top"><img height="200" width="450" src="https://github-readme-stats.vercel.app/api?username=dianaGera&count_private=true&show_icons=true&theme=vision-friendly-dark&hide_border=true&custom_title=My%20GitHub%20Stats"/></td>
+  </tr>
+</table>
   </div>
 
   
@@ -43,23 +44,4 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="35" height="35"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="35" height="35"/>
   </div>
-</div>
-
-
-
-<!-- ![Codewars](https://github.r2v.ch/codewars?user=dianaGera&stroke=blue&theme=darck&hide_clan=true&top_languages=true&stroke=%23BB432C)-->
-
-<!--
-**dianaGera/dianaGera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div
