@@ -1,17 +1,3 @@
-<table cellpadding="0" style="border-collapse: collapse; background-color: transparent; border: none">
-  <tr style="padding: 0; text-align: right;">
-    <!-- GitHub Stats Card -->  
-    <td valign="right" style="border: none; "><img height="200" width="450" src="https://github.r2v.ch/codewars?user=dianaGera&top_languages=true&hide_clan=true&stroke=%23b362ff&theme=dark"/></td>
-    <td valign="right"><img height="200" width="450" src="http://github-readme-streak-stats.herokuapp.com?user=dianaGera&theme=codestackr"/></td>
-  </tr>  
-  <tr>
-    <!-- GitHub Top Language Card -->
-    <td valign="top"><img height="200" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dianaGera&layout=compact&theme=vision-friendly-dark"/></td>
-    <td valign="top"><img height="200" width="450" src="https://github-readme-stats.vercel.app/api?username=dianaGera&count_private=true&show_icons=true&theme=vision-friendly-dark&hide_border=true&custom_title=My%20GitHub%20Stats"/></td>
-  </tr>
-</table>
-  </div>
-
  
   
   <div id="badges" align="center">
@@ -42,5 +28,21 @@
     <a href="https://www.codewars.com/users/dianaGera">
       <img src="https://img.shields.io/badge/Codewars-red?style=for-the-badge&logo=Codewars&logoColor=white" alt="Youtube Badge"/>
     </a>
-    
+    <h2></h2>
 </div>
+  <div id="badges" align="center">
+<table cellpadding="0" style="border-collapse: collapse; background-color: transparent; border: none">
+  <tr style="padding: 0; text-align: right;">
+    <!-- GitHub Stats Card -->  
+    <td valign="right" style="border: none; "><img height="200" width="450" src="https://github.r2v.ch/codewars?user=dianaGera&top_languages=true&hide_clan=true&stroke=%23b362ff&theme=dark"/></td>
+    <td valign="right"><img height="200" width="450" src="http://github-readme-streak-stats.herokuapp.com?user=dianaGera&theme=codestackr"/></td>
+  </tr>  
+  <tr>
+    <!-- GitHub Top Language Card -->
+    <td valign="top"><img height="200" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dianaGera&layout=compact&theme=vision-friendly-dark"/></td>
+    <td valign="top"><img height="200" width="450" src="https://github-readme-stats.vercel.app/api?username=dianaGera&count_private=true&show_icons=true&theme=vision-friendly-dark&hide_border=true&custom_title=My%20GitHub%20Stats"/></td>
+  </tr>
+</table>
+  </div>
+
+
