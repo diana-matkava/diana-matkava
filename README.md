@@ -42,6 +42,5 @@
     <td valign="top"><img height="200" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dianaGera&layout=compact&theme=vision-friendly-dark"/></td>
     <td valign="top"><img height="200" width="450" src="https://github-readme-stats.vercel.app/api?username=dianaGera&count_private=true&show_icons=true&theme=vision-friendly-dark&hide_border=true&custom_title=My%20GitHub%20Stats"/></td>
   </tr>
-</table>
+   </table>
   </div>
- 
