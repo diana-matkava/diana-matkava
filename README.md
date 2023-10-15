@@ -31,7 +31,7 @@
     <h2></h2>
 </div>
   <div id="badges" align="center">
-<table cellpadding="0" style="border-collapse: collapse; background-color: transparent; border: none">
+<table cellpadding="0" style="border-collapse: collapse; background-color: black; border: none">
   <tr style="padding: 0; text-align: right;">
     <!-- GitHub Stats Card -->  
     <td valign="right" style="border: none; "><img height="200" width="450" src="https://github.r2v.ch/codewars?user=dianaGera&top_languages=true&hide_clan=true&stroke=%23b362ff&theme=dark"/></td>
