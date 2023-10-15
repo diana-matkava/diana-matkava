@@ -19,8 +19,9 @@
   </div>
 </div
 
-<div id="header" align="center">
-  
+<div id="header" style="margin-top: 80px;">
+ <p></p>
+ <h2>By the way here are some of my statistics 🚀</h2>
 <table cellpadding="0" style="border-collapse: collapse; background-color: black; border: none">
   <tr style="padding: 0; text-align: right;">
     <!-- GitHub Stats Card -->  
@@ -33,7 +34,6 @@
     <td valign="top"><img height="200" width="450" src="https://github-readme-stats.vercel.app/api?username=dianaGera&count_private=true&show_icons=true&theme=vision-friendly-dark&hide_border=true&custom_title=My%20GitHub%20Stats"/></td>
   </tr>
 </table>
-
 
 
 <h2></h2>
